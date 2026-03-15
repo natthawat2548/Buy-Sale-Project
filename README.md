@@ -9,3 +9,5 @@
 -การเชื่อมต่อและดึงข้อมูลจากฐานข้อมูล MySQL
 
 พัฒนาโดย: นายณัฐวรรธน์ อ่อนอิ่มสิน
+
+คู่มือการใช้งาน: https://docs.google.com/document/d/1mV5zk0NT0LWyUP5u8YTlm3W6zdP908qItopWmAfLS4c/edit?usp=sharing
